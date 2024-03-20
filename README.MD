@@ -2,9 +2,6 @@
 
 <h2 align="center">
 
-[![Support](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed)
-[![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=plastic)](https://github.com/jeffersonfed/css-diner-solution)
-</h2>
 
 <ul style="font-size:18px">
     <li>Level 1
