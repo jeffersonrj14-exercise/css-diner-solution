@@ -1,6 +1,6 @@
 # CSS Diner Solution Answer<br> ([CSS Diner Website](https://css-diner.netlify.app/#))
 
-<h2 align="center">
+
 
 
 <ul style="font-size:18px">
